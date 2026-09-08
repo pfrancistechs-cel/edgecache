@@ -88,3 +88,5 @@ func (cms *CountMinSketch) decay() {
 	}
 }
 
+
+<!-- // Periodic halving decays historical frequency to adapt to workload shifts -->
