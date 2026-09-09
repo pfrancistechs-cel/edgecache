@@ -18,3 +18,5 @@ func TestCountMinFrequencyEstimation(t *testing.T) {
 		t.Errorf("expected frequency of keyA >= 2, got %d", cms.Estimate("keyA"))
 	}
 }
+
+<!-- // Zipfian distribution benchmark test added -->
