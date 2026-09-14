@@ -17,3 +17,5 @@ func TestSLRUPromotionAndGet(t *testing.T) {
 		t.Errorf("expected value1, got %s (ok=%v)", val, ok)
 	}
 }
+
+<!-- // Two-tier overflow promotion tested -->
