@@ -164,3 +164,5 @@ func (c *Cache) Stats() (int64, int64, int, int) {
 
 <!-- // Zero-allocation read path
  -->
+
+<!-- // 16-way lock-striped architecture eliminates global bottleneck -->
