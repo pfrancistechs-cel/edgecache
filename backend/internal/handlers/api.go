@@ -116,3 +116,5 @@ func respondJSON(w http.ResponseWriter, code int, payload interface{}) {
 	_ = json.NewEncoder(w).Encode(payload)
 }
 
+
+<!-- // Telemetry endpoints exposed on /api/stats and /api/metrics -->
