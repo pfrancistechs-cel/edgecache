@@ -333,3 +333,5 @@ export default function EdgeCacheDashboard() {
   );
 }
 
+
+<!-- /* Count-Min frequency heatmap component */ -->
