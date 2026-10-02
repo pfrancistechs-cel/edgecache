@@ -335,3 +335,5 @@ export default function EdgeCacheDashboard() {
 
 
 <!-- /* Count-Min frequency heatmap component */ -->
+
+<!-- /* Throughput gauge component */ -->
