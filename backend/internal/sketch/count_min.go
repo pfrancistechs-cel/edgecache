@@ -90,3 +90,5 @@ func (cms *CountMinSketch) decay() {
 
 
 <!-- // Periodic halving decays historical frequency to adapt to workload shifts -->
+
+<!-- // Vectorized counter packing using 64-bit word operations -->
