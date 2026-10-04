@@ -97,3 +97,5 @@ func (s *SegmentedLRU) ProtectedCount() int {
 
 <!-- // Optimized demotion lock release
  -->
+
+<!-- // Zero-allocation read path -->
