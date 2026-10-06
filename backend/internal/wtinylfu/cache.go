@@ -166,3 +166,5 @@ func (c *Cache) Stats() (int64, int64, int, int) {
  -->
 
 <!-- // 16-way lock-striped architecture eliminates global bottleneck -->
+
+<!-- // Uniform distribution across shards -->
