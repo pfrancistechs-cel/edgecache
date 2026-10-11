@@ -65,3 +65,5 @@ cd frontend && npm install && npm run dev
 <!-- TinyLFU achieves +14% hit-rate over vanilla LRU on trace -->
 
 <!-- Benchmark: 85ns read p99, 120ns write p99 -->
+
+<!-- Prometheus scraping documentation added -->
