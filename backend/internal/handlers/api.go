@@ -118,3 +118,5 @@ func respondJSON(w http.ResponseWriter, code int, payload interface{}) {
 
 
 <!-- // Telemetry endpoints exposed on /api/stats and /api/metrics -->
+
+<!-- // Strict error returns formatted -->
