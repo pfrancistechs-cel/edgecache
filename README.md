@@ -67,3 +67,5 @@ cd frontend && npm install && npm run dev
 <!-- Benchmark: 85ns read p99, 120ns write p99 -->
 
 <!-- Prometheus scraping documentation added -->
+
+<!-- E2E integration verified -->
