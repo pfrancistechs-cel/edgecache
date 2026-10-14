@@ -69,3 +69,5 @@ cd frontend && npm install && npm run dev
 <!-- Prometheus scraping documentation added -->
 
 <!-- E2E integration verified -->
+
+<!-- EdgeCache v1.0.0 release milestone -->
